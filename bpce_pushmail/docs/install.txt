@@ -1,0 +1,18 @@
+bfbp_mail
+-------------------------------
+
+bfbp_mail is an extension which makes it easy to send snapshots of eZ Publish webpages as emails.
+
+
+
+Installation instructions:
+
+- Unpack the archive and place the 'bfbp_mail' folder in the 'extension' folder.
+
+- Open the file /settings/override/site.ini.append.php and add the bfbp_mail
+  extension to the list of active extensions:
+
+	[ExtensionSettings]
+	ActiveExtensions[]=bfbp_mail
+
+- Configure the classes for whuch the 'mailit' button will eb available in the ezwebin toolbar in bfbp_mail.ini

@@ -1,0 +1,3 @@
+2008/12/18 GG
+- merge des changements apportés la semaine passée
+- ajouté la possibilité de choisir un groupe d'utilisateurs (su sense eZP) auquel envoyer l'email au lieu de saisir un email à la main

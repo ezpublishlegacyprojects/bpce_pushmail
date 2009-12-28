@@ -1,0 +1,2 @@
+- completer le fichier de traduction
+- limiter l'envoi massif d'email à un groupe d'utilisateurs nourri / passer à un envoi en cronjob ou similaire
